@@ -28,6 +28,7 @@ public:
 ``` cpp
 //msg.cpp
 #include "msg.h"
+#include "proto1.h"
 
 #define defRoute(cmdid,className) \
 case cmdid:{return new className();}break;
