@@ -1,9 +1,4 @@
 
-## EpollEngine
-
-(整理中)我自己写的epoll的简单TCP长连接框架，详细介绍请
-[跳转](EpollEngine/README.md)，方法还不是很全，经过简单测试，没有运用到项目。
-
 ## Blog
 
 [1.线程安全的对象池编写与详细解释](content/objectpool.md)
